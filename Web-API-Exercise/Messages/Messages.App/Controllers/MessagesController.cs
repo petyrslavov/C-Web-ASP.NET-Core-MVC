@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using Messages.App.Models;
 using Messages.Data;
 using Messages.Domain;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Messages.App.Controllers
 {
@@ -33,10 +35,13 @@ namespace Messages.App.Controllers
         [Route("create")]
         public async Task<ActionResult> Create(MessageCreateBindingModel bindingModel)
         {
+            var userFromDb = await this.context.Users
+                    .SingleOrDefaultAsync(user => user.Username == bindingModel.User);
+
             Message message = new Message
             {
                 Content = bindingModel.Content,
-                User = bindingModel.User,
+                User = userFromDb,
                 CreatedOn = DateTime.UtcNow
             };
 
@@ -44,6 +49,12 @@ namespace Messages.App.Controllers
             await this.context.SaveChangesAsync();
 
             return this.Ok();
+        }
+
+        [HttpGet("getme")]
+        public async Task<ActionResult> GetUserId()
+        {
+            return this.Ok(this.User.FindFirst(ClaimTypes.NameIdentifier).Value);
         }
     }
 }

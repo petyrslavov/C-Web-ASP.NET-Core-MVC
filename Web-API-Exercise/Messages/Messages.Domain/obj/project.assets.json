@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\Messages.Domain.csproj",
+      "projectUniqueName": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\CSharp-Web-ASP.NET-Core-MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\Messages.Domain.csproj",
       "projectName": "Messages.Domain",
-      "projectPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\Messages.Domain.csproj",
+      "projectPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\CSharp-Web-ASP.NET-Core-MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\Messages.Domain.csproj",
       "packagesPath": "C:\\Users\\Petar\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\obj\\",
+      "outputPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\CSharp-Web-ASP.NET-Core-MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

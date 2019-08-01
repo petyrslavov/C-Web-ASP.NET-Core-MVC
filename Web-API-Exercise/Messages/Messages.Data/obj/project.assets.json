@@ -3488,11 +3488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\Web-API-Exercise\\Messages\\Messages.Data\\Messages.Data.csproj",
+      "projectUniqueName": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\CSharp-Web-ASP.NET-Core-MVC\\Web-API-Exercise\\Messages\\Messages.Data\\Messages.Data.csproj",
       "projectName": "Messages.Data",
-      "projectPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\Web-API-Exercise\\Messages\\Messages.Data\\Messages.Data.csproj",
+      "projectPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\CSharp-Web-ASP.NET-Core-MVC\\Web-API-Exercise\\Messages\\Messages.Data\\Messages.Data.csproj",
       "packagesPath": "C:\\Users\\Petar\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\Web-API-Exercise\\Messages\\Messages.Data\\obj\\",
+      "outputPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\CSharp-Web-ASP.NET-Core-MVC\\Web-API-Exercise\\Messages\\Messages.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3511,8 +3511,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\Messages.Domain.csproj": {
-              "projectPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\Messages.Domain.csproj"
+            "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\CSharp-Web-ASP.NET-Core-MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\Messages.Domain.csproj": {
+              "projectPath": "D:\\SoftUni Projects\\C#Web-ASP.NET Core MVC\\CSharp-Web-ASP.NET-Core-MVC\\Web-API-Exercise\\Messages\\Messages.Domain\\Messages.Domain.csproj"
             }
           }
         }

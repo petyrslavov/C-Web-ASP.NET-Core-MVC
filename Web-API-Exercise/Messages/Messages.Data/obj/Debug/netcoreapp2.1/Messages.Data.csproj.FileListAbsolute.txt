@@ -10,3 +10,15 @@ D:\SoftUni Projects\C#Web-ASP.NET Core MVC\Web-API-Exercise\Messages\Messages.Da
 D:\SoftUni Projects\C#Web-ASP.NET Core MVC\Web-API-Exercise\Messages\Messages.Data\bin\Debug\netcoreapp2.1\Messages.Domain.dll
 D:\SoftUni Projects\C#Web-ASP.NET Core MVC\Web-API-Exercise\Messages\Messages.Data\bin\Debug\netcoreapp2.1\Messages.Domain.pdb
 D:\SoftUni Projects\C#Web-ASP.NET Core MVC\Web-API-Exercise\Messages\Messages.Data\obj\Debug\netcoreapp2.1\Messages.Data.csproj.CopyComplete
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\bin\Debug\netcoreapp2.1\Messages.Data.deps.json
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\bin\Debug\netcoreapp2.1\Messages.Data.dll
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\bin\Debug\netcoreapp2.1\Messages.Data.pdb
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\bin\Debug\netcoreapp2.1\Messages.Domain.dll
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\bin\Debug\netcoreapp2.1\Messages.Domain.pdb
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\obj\Debug\netcoreapp2.1\Messages.Data.csprojAssemblyReference.cache
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\obj\Debug\netcoreapp2.1\Messages.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\obj\Debug\netcoreapp2.1\Messages.Data.AssemblyInfoInputs.cache
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\obj\Debug\netcoreapp2.1\Messages.Data.AssemblyInfo.cs
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\obj\Debug\netcoreapp2.1\Messages.Data.csproj.CopyComplete
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\obj\Debug\netcoreapp2.1\Messages.Data.dll
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Data\obj\Debug\netcoreapp2.1\Messages.Data.pdb

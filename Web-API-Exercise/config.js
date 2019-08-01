@@ -1,0 +1,1 @@
+let APP_SERVICE_URL = 'https://localhost:44338/api/';

@@ -7,3 +7,12 @@ D:\SoftUni Projects\C#Web-ASP.NET Core MVC\Web-API-Exercise\Messages\Messages.Do
 D:\SoftUni Projects\C#Web-ASP.NET Core MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.AssemblyInfo.cs
 D:\SoftUni Projects\C#Web-ASP.NET Core MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.dll
 D:\SoftUni Projects\C#Web-ASP.NET Core MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.pdb
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\bin\Debug\netcoreapp2.1\Messages.Domain.deps.json
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\bin\Debug\netcoreapp2.1\Messages.Domain.dll
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\bin\Debug\netcoreapp2.1\Messages.Domain.pdb
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.csprojAssemblyReference.cache
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.csproj.CoreCompileInputs.cache
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.AssemblyInfoInputs.cache
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.AssemblyInfo.cs
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.dll
+D:\SoftUni Projects\C#Web-ASP.NET Core MVC\CSharp-Web-ASP.NET-Core-MVC\Web-API-Exercise\Messages\Messages.Domain\obj\Debug\netcoreapp2.1\Messages.Domain.pdb
